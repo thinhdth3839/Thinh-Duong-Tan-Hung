@@ -1,8 +1,8 @@
 # Thinh Duong Tan Hung
 # Hi there! 👋 I'm Thinh Duong Tan Hung  
-**Data Scientist | AI Enthusiast | Lifelong Learner**  
+**Data Scientist | AI Engineer | Undergraduated Bachchalor of AI**  
 
-Welcome to my GitHub profile! Here's a bit about me:  
+Welcome to my GitHub profile! Here's a bit about me: 
 
 🔍 **Who I Am**:  
 I'm currently pursuing a Bachelor's Degree in AI at **FPT University**, with an excellent academic record (GPA: 8.2/10.0). I have a passion for data science, machine learning, and solving real-world problems with innovative solutions.  
